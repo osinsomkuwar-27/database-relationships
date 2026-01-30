@@ -13,6 +13,7 @@ const userSchema = new Schema({
   username: String,
   addresses: [
     {
+        _id: false,
       location: String,
       city: String,
     },
