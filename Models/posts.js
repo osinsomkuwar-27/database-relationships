@@ -38,3 +38,5 @@ const addData = async() =>{
 
 addData();
 
+//Reading docs
+//https://www.mongodb.com/company/blog/mongodb/6-rules-of-thumb-for-mongodb-schema-design
